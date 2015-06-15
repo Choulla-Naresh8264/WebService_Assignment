@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA2", "CA2\CA2.csproj", "{F3E78D60-3BF8-4CC3-8A4E-E4347584B530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAPwebservice", "ConsoleApplication1\SOAPwebservice.csproj", "{10E2BA70-931C-4E06-B441-725344BE619C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetMvc1", "AspNetMvc1\AspNetMvc1.csproj", "{63673C74-DC49-45DD-BC2B-EC50EA3F557A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAPwebserviceTests", "SOAPwebserviceTests\SOAPwebserviceTests.csproj", "{34F33EF3-A478-41FE-B468-B67F0D59555F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA2Tests(webAPI)", "CA2Tests\CA2Tests(webAPI).csproj", "{1A059FC2-566C-4712-8C3C-D256C056AB7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetMvc1Tests", "AspNetMvc1Tests\AspNetMvc1Tests.csproj", "{8D6C0250-4CCB-4E2D-9EBD-354A66424A56}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://yc-dit.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CA2\\CA2.csproj
+		SccProjectName1 = CA2
+		SccLocalPath1 = CA2
+		SccProjectUniqueName2 = ConsoleApplication1\\SOAPwebservice.csproj
+		SccProjectName2 = ConsoleApplication1
+		SccLocalPath2 = ConsoleApplication1
+		SccProjectUniqueName3 = AspNetMvc1\\AspNetMvc1.csproj
+		SccProjectName3 = AspNetMvc1
+		SccLocalPath3 = AspNetMvc1
+		SccProjectUniqueName4 = SOAPwebserviceTests\\SOAPwebserviceTests.csproj
+		SccProjectName4 = SOAPwebserviceTests
+		SccLocalPath4 = SOAPwebserviceTests
+		SccProjectUniqueName5 = AspNetMvc1Tests\\AspNetMvc1Tests.csproj
+		SccProjectName5 = AspNetMvc1Tests
+		SccLocalPath5 = AspNetMvc1Tests
+		SccProjectUniqueName6 = CA2Tests\\CA2Tests(webAPI).csproj
+		SccProjectName6 = CA2Tests
+		SccLocalPath6 = CA2Tests
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3E78D60-3BF8-4CC3-8A4E-E4347584B530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E78D60-3BF8-4CC3-8A4E-E4347584B530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E78D60-3BF8-4CC3-8A4E-E4347584B530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E78D60-3BF8-4CC3-8A4E-E4347584B530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10E2BA70-931C-4E06-B441-725344BE619C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E2BA70-931C-4E06-B441-725344BE619C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E2BA70-931C-4E06-B441-725344BE619C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E2BA70-931C-4E06-B441-725344BE619C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63673C74-DC49-45DD-BC2B-EC50EA3F557A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63673C74-DC49-45DD-BC2B-EC50EA3F557A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63673C74-DC49-45DD-BC2B-EC50EA3F557A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63673C74-DC49-45DD-BC2B-EC50EA3F557A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F33EF3-A478-41FE-B468-B67F0D59555F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F33EF3-A478-41FE-B468-B67F0D59555F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F33EF3-A478-41FE-B468-B67F0D59555F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F33EF3-A478-41FE-B468-B67F0D59555F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A059FC2-566C-4712-8C3C-D256C056AB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A059FC2-566C-4712-8C3C-D256C056AB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A059FC2-566C-4712-8C3C-D256C056AB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A059FC2-566C-4712-8C3C-D256C056AB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6C0250-4CCB-4E2D-9EBD-354A66424A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6C0250-4CCB-4E2D-9EBD-354A66424A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6C0250-4CCB-4E2D-9EBD-354A66424A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6C0250-4CCB-4E2D-9EBD-354A66424A56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
